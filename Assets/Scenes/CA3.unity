@@ -573,10 +573,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d1948d1e9420074b8c884a136fa0844, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  usernameField: {fileID: 60004120}
-  passwordField: {fileID: 906873281}
-  errorMessage: {fileID: 1516276770}
-  errorDisplayTime: 2
+  passwordInput: {fileID: 906873281}
+  feedbackText: {fileID: 513398067}
+  correctPassword: mypassword
+  successSceneName: BasicScene
 --- !u!1 &299639867
 GameObject:
   m_ObjectHideFlags: 0
